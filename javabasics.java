@@ -5,11 +5,11 @@ public class javabasics{
         int a = 6;
         int b = 5;
         if(b>a){
-            System.out.println("ihn");
+            System.out.println("Hiiii...........");
 
         }
         else{
-            System.out.println("the");
+            System.out.println("byeeeeee........");
         }
 
     }
